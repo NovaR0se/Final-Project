@@ -16,9 +16,9 @@ It will generate a city with moving elements (rain, lights, cars). This is relev
 - Cars 
 	- redrawing the car or turning the car into an element
 ## Challenges
-- I will need to learn more about how to use particles.
--how to have moving elemetns that are more than just one color.
--Short sentence of any skill or topic that needs to be learnt or researched.
+- I will need to learn how to have diagonal movement (for scenery and for rain).
+-how to have moving elements that are more than just one color.
+-how to overlap images for when cars collide with lights.
 
 ## Outcomes
 Ideal Outcome:
