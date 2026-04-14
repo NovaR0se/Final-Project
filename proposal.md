@@ -1,7 +1,7 @@
 # Final-Project
 
 ## Repository
-[link to repository]([url](https://github.com/NovaR0se/Final-Project))
+[Link to repository](https://github.com/NovaR0se/Final-Project)
 
 ## Description
 It will generate a city with moving elements (rain, lights, cars). This is relevant because we have been learning how to draw on a screen and how to make things move on said screen.
