@@ -9,8 +9,10 @@ It will generate a city with moving elements (rain, lights, cars). This is relev
 ## Features
 - scenery Drawer
 	- it will have preset instructions on how to draw the buildings and highway
-- moving objects that arnt the cars
-	- particles and redrawing the moving objects occasionally
+- Lights rain and advertisments
+	- Rain will be made of particles and move like we did in the lastest lab
+	- Lights will be drawn with an alpha that is less than 255
+   	- Advertisments will occasionally swap between 2-3 preset options
 - Cars 
 	- redrawing the car or turning the car into an element
 ## Challenges
